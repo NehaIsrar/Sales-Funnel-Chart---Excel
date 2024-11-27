@@ -2,6 +2,10 @@
 
 Created a sales funnel chart in Excel to tell a story from the first call to the completed purchase and track the process using a pipeline.
 
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/c37d630c-3b74-4054-be58-8cd6be05b8f9">
+
+
+
 What is a sales funnel?
 
 Let’s start with the most important thing. Sales Funnel has stages, and stages represent an activity.
